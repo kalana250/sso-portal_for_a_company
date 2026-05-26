@@ -150,7 +150,7 @@ In each frontend app's app.js, update the CONFIG:
 
 ### 6. Run the Project
 
-Option 1: Run Manually (9 terminals)
+Run
 
 ```bash
 # Backend APIs
@@ -167,13 +167,6 @@ cd frontend/admin-app && node app.js
 
 # Portal
 cd portal && node server.js
-
-```
-
-### Option 2: Run with Script (Windows)
-
-```bash
-./start-all.bat
 
 ```
 
